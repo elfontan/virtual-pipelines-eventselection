@@ -36,7 +36,7 @@ Install conda and ROOT following the instructions [here](https://indico.cern.ch/
 
 
 # Option 3: Using Docker
-
+  	    NB: Docker needs some more privileges than the typical Linux user has available
 # TODO
 
 ## Preprocessing: Reducing the initial samples
